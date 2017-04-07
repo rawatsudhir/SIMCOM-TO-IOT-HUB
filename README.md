@@ -1,6 +1,8 @@
 # SIMCOM-TO-IOT-HUB
 
-## This page share commands for Simcom (GPS module) to send data to Azure IOT hub. If you encounter any error then one of the root cause could be firmware is not updated on the device. Please try to update it and then try. 
+## This page share commands for Simcom (GPS module) to send data to Azure IOT hub. If you encounter any error then one of the root cause could be firmware is not updated on the device. Please try to update firmware and then try.
+
+
 
 AT+HTTPPARA="CID",1
 
